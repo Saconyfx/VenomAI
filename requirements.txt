@@ -6,5 +6,5 @@ phidata==0.1.43
 
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
 h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability

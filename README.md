@@ -95,8 +95,8 @@ Type your query or target domain into the message input field or ask general cyb
 Click Send VenomAI will either run the selected plugin or provide an intelligent AI-generated response based on your input.
 
 # Options
-Plugin Options
-Port Scanner – Uses Nmap to scan open ports.
+Plugin Options<br>
+Port Scanner – Uses Nmap to scan open ports.<br>
 Subdomain Finder – Extracts subdomains using crt.sh.
 Find Pages – Finds public pages using HackerTarget API.
 SSL Checker – Retrieves SSL grade and certificate chain from SSL Labs.

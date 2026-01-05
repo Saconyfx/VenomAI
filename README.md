@@ -14,7 +14,7 @@ An AI-powered cybersecurity agent
 * [Disclaimer](#disclaimer)
 
 # Introduction
-VenomAI is an autonomous AI agent designed for cybersecurity analysis, threat evaluation, and intelligent automation. Built with Flask and PhiData, VenomAI allows users to interact naturally while performing offensive and defensive security tasks such as subdomain discovery, port scanning, SSL certificate checks, and more. This intelligent agent combines real-time plugin execution with large language model reasoning — making it an ideal AI companion for ethical hackers, defenders, and researchers alike. YouTube video link https://youtu.be/ZM2gbXFGcTs
+VenomAI is an autonomous AI agent designed for cybersecurity analysis, threat evaluation, and intelligent automation. Built with Flask and PhiData, VenomAI allows users to interact naturally while performing offensive and defensive security tasks such as subdomain discovery, port scanning, SSL certificate checks, and more. This intelligent agent combines real-time plugin execution with large language model reasoning making it an ideal AI companion for ethical hackers, defenders, and researchers alike. YouTube video link https://youtu.be/ZM2gbXFGcTs
 
 # Features
 AI-powered chat interface using OpenAI (via PhiData integration)
@@ -91,8 +91,8 @@ Visit http://localhost:3841 in your browser to start using VenomAI.
 # Usage
 To use VenomAI, follow these simple steps:
 Select a plugin from the dropdown (e.g., Port Scanner, DNS Lookup, SSL Checker, etc.)
-Type your query or target domain into the message input field — or ask general cybersecurity questions like “What is the difference between IDS and IPS?”
-Click Send — VenomAI will either run the selected plugin or provide an intelligent AI-generated response based on your input.
+Type your query or target domain into the message input field or ask general cybersecurity questions like “What is the difference between IDS and IPS?”
+Click Send VenomAI will either run the selected plugin or provide an intelligent AI-generated response based on your input.
 
 # Options
 Plugin Options

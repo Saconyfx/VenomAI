@@ -97,7 +97,7 @@ Click Send VenomAI will either run the selected plugin or provide an intelligent
 # Options
 Plugin Options<br>
 Port Scanner – Uses Nmap to scan open ports.<br>
-Subdomain Finder – Extracts subdomains using crt.sh.
+Subdomain Finder – Extracts subdomains using crt.sh.<br>
 Find Pages – Finds public pages using HackerTarget API.
 SSL Checker – Retrieves SSL grade and certificate chain from SSL Labs.
 Security Headers – Scans for missing HTTP security headers.

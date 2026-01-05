@@ -102,8 +102,8 @@ Find Pages – Finds public pages using HackerTarget API.<br>
 SSL Checker – Retrieves SSL grade and certificate chain from SSL Labs.<br>
 Security Headers – Scans for missing HTTP security headers.<br>
 Virus Check – Uses VirusTotal to assess domain reputation.<br>
-Whois Lookup – Performs WHOIS domain lookup.
-DNS Lookup – Queries DNS records.
+Whois Lookup – Performs WHOIS domain lookup.<br>
+DNS Lookup – Queries DNS records.<br>
 IP Address Lookup – Fetches geolocation and ASN info from ipinfo.io
 
 # License

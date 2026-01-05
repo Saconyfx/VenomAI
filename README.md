@@ -100,8 +100,8 @@ Port Scanner – Uses Nmap to scan open ports.<br>
 Subdomain Finder – Extracts subdomains using crt.sh.<br>
 Find Pages – Finds public pages using HackerTarget API.<br>
 SSL Checker – Retrieves SSL grade and certificate chain from SSL Labs.<br>
-Security Headers – Scans for missing HTTP security headers.
-Virus Check – Uses VirusTotal to assess domain reputation.
+Security Headers – Scans for missing HTTP security headers.<br>
+Virus Check – Uses VirusTotal to assess domain reputation.<br>
 Whois Lookup – Performs WHOIS domain lookup.
 DNS Lookup – Queries DNS records.
 IP Address Lookup – Fetches geolocation and ASN info from ipinfo.io

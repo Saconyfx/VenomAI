@@ -1,4 +1,6 @@
 # VenomAI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaconyfx%2FVenomAI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaconyfx%2FVenomAI?ref=badge_shield)
+
 An AI-powered cybersecurity agent
 
 ## Table of Contents
@@ -113,6 +115,9 @@ This means you are free to redistribute or modify the software under the terms o
 This software is distributed in the hope that it will be useful, but without any warranty—not even the implied warranty of merchantability or fitness for a particular purpose.
 For more details, please refer to the GNU General Public License.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaconyfx%2FVenomAI.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaconyfx%2FVenomAI?ref=badge_large)
+
 # Contributing
 Contributions are always welcome! If you'd like to contribute to VenomAI, feel free to fork the repository, work on your improvements or ideas, and submit a pull request — whether it's bug fixes, new features, or enhancements to existing capabilities.
 
@@ -123,4 +128,3 @@ This means you are free to redistribute or modify the software under the terms o
 
 This software is distributed in the hope that it will be useful, but without any warranty—not even the implied warranty of merchantability or fitness for a particular purpose.
 For more details, please refer to the GNU General Public License.
-
